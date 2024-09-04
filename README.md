@@ -2,7 +2,6 @@
 I am a senior in college aiming for a Bachelor's in Computer Science.
 
 # Projects:
-https://github.com/Cdukes5/itsc-3155-final-project
 
 # Goals and Objective:
 ## My objective:
